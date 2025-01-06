@@ -1,0 +1,1 @@
+export { processContributions } from '../contributions/processor';
